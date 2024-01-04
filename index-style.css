@@ -86,7 +86,7 @@
         justify-content: center;
     }
     .rounded-start{
-        height: 100%!important;
+        height: 15rem!important;
         min-width: 100%!important;
     }
 }
