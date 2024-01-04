@@ -52,6 +52,7 @@
         background-size: cover;
         height:30rem;
         background-repeat: no-repeat;
+        background-position-y: -50px;
     }
 
     .cafe-name{
