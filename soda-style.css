@@ -8,7 +8,7 @@
         background-size:cover; 
         height:37rem;
         background-repeat: no-repeat;
-        background-position-y:center ;
+        background-position-y: -18rem!important;
     }
 
     .cafe-name{
@@ -16,7 +16,7 @@
     }
 
     .menu-im{
-        background-image: url(https://img.freepik.com/free-photo/spotlight-shining-down-into-grunge-interior_1048-6921.jpg?w=740&t=st=1704401432~exp=1704402032~hmac=5f72de9c24eb5b07ef7ca201f01d9f6074249e348ded534edd5ea0a2216b0c4e);
+        background-image: url(https://img.freepik.com/free-vector/black-background-with-focus-spot-light_1017-27230.jpg?w=1060&t=st=1704314618~exp=1704315218~hmac=715290073539055434e2917fc6d07cab039f9f6e70f56a84d257562103653170);
         background-attachment: fixed;
         background-size:cover;
         background-repeat: no-repeat;
@@ -54,6 +54,7 @@
         height:25rem;
         background-repeat: no-repeat;
         background-position-x: center;
+        background-position-y: -7rem!important;
     }
 
     .cafe-name{
@@ -61,7 +62,7 @@
     }
 
     .menu-im{
-        background-image: url(https://img.freepik.com/free-photo/spotlight-shining-down-into-grunge-interior_1048-6921.jpg?w=740&t=st=1704401432~exp=1704402032~hmac=5f72de9c24eb5b07ef7ca201f01d9f6074249e348ded534edd5ea0a2216b0c4e);
+        background-image: url(https://img.freepik.com/free-vector/black-background-with-focus-spot-light_1017-27230.jpg?w=1060&t=st=1704314618~exp=1704315218~hmac=715290073539055434e2917fc6d07cab039f9f6e70f56a84d257562103653170);
         background-attachment: fixed;
         background-size:cover;
         background-repeat: no-repeat;
