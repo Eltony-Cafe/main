@@ -1,7 +1,7 @@
 /* For Desktop View */
 @media screen and (min-width: 768px) {
     .text-body-emphasis{
-        background-image: url(https://img.freepik.com/free-photo/close-up-hookah-vaping_23-2149297125.jpg?w=1060&t=st=1704397963~exp=1704398563~hmac=2bcd461dd36824bae75f4a8a5fe13f9123a951dcee332d6d4a144138001a0f47);
+        background-image: url(https://wallpapercave.com/wp/wp5837122.jpg);
         background-attachment: fixed;
         margin: 0;
         padding: 0;
@@ -46,7 +46,7 @@
 /* For Mobile Portrait View */
 @media screen and (max-width: 768px) {
     .text-body-emphasis{
-        background-image: url(https://img.freepik.com/free-photo/close-up-hookah-vaping_23-2149297125.jpg?w=1060&t=st=1704397963~exp=1704398563~hmac=2bcd461dd36824bae75f4a8a5fe13f9123a951dcee332d6d4a144138001a0f47);
+        background-image: url(https://wallpapercave.com/wp/wp5837122.jpg);
         background-attachment: fixed;
         margin: 0;
         padding: 0;
