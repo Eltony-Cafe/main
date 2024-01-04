@@ -1,0 +1,87 @@
+/* For Desktop View */
+@media screen and (min-width: 768px) {
+    .text-body-emphasis{
+        background-image: url(https://img.freepik.com/free-photo/beautiful-cold-drink-cola-with-ice-cubes_1150-26255.jpg?w=1060&t=st=1704389552~exp=1704390152~hmac=2eee1aebcb53a804704f88fa0dea7b5ff241f57fe72d57f0e64a0e5a8ebec06a);
+        background-attachment: fixed;
+        margin: 0;
+        padding: 0;
+        background-size:cover; 
+        height:37rem;
+        background-repeat: no-repeat;
+        background-position-y: center;
+    }
+
+    .cafe-name{
+        margin-top: 8rem!important;
+    }
+
+    .menu-im{
+        background-image: url(https://img.freepik.com/free-vector/black-background-with-focus-spot-light_1017-27230.jpg?w=1060&t=st=1704314618~exp=1704315218~hmac=715290073539055434e2917fc6d07cab039f9f6e70f56a84d257562103653170);
+        background-attachment: fixed;
+        background-size:cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        justify-items: center;
+        width: 100%;
+        margin-bottom: 1rem;
+    }
+    
+    .main-men{
+        display: flex;
+        flex-direction: row;
+        justify-content: center!important;
+        text-align: center!important;
+        align-items: center;
+        justify-items: center;
+        gap: 1rem;
+    }
+
+}
+
+/* For Mobile Portrait View */
+@media screen and (max-width: 768px) {
+    .text-body-emphasis{
+        background-image: url(https://img.freepik.com/free-photo/fresh-cola-drink-with-green-lime_144627-12394.jpg?w=360&t=st=1704389420~exp=1704390020~hmac=a9053c8464b53921cd360c6da57bd877903ca2e0c5ff8a3a1448d9e5adae8484);
+        background-attachment: fixed;
+        margin: 0;
+        padding: 0;
+        background-size:cover; 
+        height:25rem;
+        background-repeat: no-repeat;
+    }
+
+    .cafe-name{
+        margin-top: 4rem!important;
+    }
+
+    .menu-im{
+        background-image: url(https://img.freepik.com/free-vector/black-background-with-focus-spot-light_1017-27230.jpg?w=1060&t=st=1704314618~exp=1704315218~hmac=715290073539055434e2917fc6d07cab039f9f6e70f56a84d257562103653170);
+        background-attachment: fixed;
+        background-size:cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        justify-items: center;
+        padding: 1rem;
+    }
+    
+    .main-men{
+        display: flex;
+        flex-direction: row;
+        justify-content: center!important;
+        text-align: center!important;
+        align-items: center;
+        justify-items: center;
+        gap: 1rem;
+    }
+}
+

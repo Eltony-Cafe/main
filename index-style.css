@@ -1,0 +1,117 @@
+/* For Desktop View */
+@media screen and (min-width: 768px) {
+    .text-body-emphasis{
+        background-image: url(https://miro.medium.com/v2/resize:fit:14720/1*ZajEMv2yEHjwYlNOHmtNfg.jpeg);
+        background-attachment: fixed;
+        margin: 0;
+        padding: 0;
+        background-size:cover; 
+        height:48rem;
+        background-repeat: no-repeat;
+    }
+
+    .cafe-name{
+        margin-top: 8rem!important;
+    }
+
+    #menu-shape{
+        display: flex;
+        flex-direction: row;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr;
+        justify-content: center;
+        width: max-content;
+        gap: 1rem;
+        margin-top: 4rem;
+    }
+    
+    .container{
+        display: flex;
+        justify-content: center;
+    }
+
+    .rounded-start{
+        height: 10rem!important;
+        min-width: 100%!important;
+    
+    }
+
+    .card{
+        height: 10rem!important;
+    }
+
+    .card-body{
+        height: 10rem!important;
+    }
+
+    .card-text{
+        padding-top: 3rem;
+    }
+
+}
+
+
+
+/* For Mobile Portrait View */
+@media screen and (max-width: 768px) {
+    .text-body-emphasis{
+        background-image: url(https://miro.medium.com/v2/resize:fit:14720/1*ZajEMv2yEHjwYlNOHmtNfg.jpeg);
+        background-attachment: fixed;
+        margin: 0;
+        padding: 0;
+        background-size:cover; 
+        height:30rem;
+        background-repeat: no-repeat;
+    }
+
+    .cafe-name{
+        margin-top: 4rem!important;
+    }
+
+    #menu-shape{
+        display: flex;
+        flex-direction: row;
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+        justify-content: center;
+        width: max-content;
+        gap: 8px;
+        margin-top: 2rem;
+    }
+    
+    .container{
+        display: flex;
+        justify-content: center;
+    }
+    .rounded-start{
+        height: 100%!important;
+        min-width: 100%!important;
+    }
+}
+
+.card-body{
+    background-image: url(https://img.freepik.com/free-vector/black-background-with-focus-spot-light_1017-27230.jpg?w=1060&t=st=1704314618~exp=1704315218~hmac=715290073539055434e2917fc6d07cab039f9f6e70f56a84d257562103653170);
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+.pages-link{
+    text-decoration: none!important;
+}
+
+.text-top{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+

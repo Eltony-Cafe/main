@@ -1,0 +1,88 @@
+/* For Desktop View */
+@media screen and (min-width: 768px) {
+    .text-body-emphasis{
+        background-image: url(https://img.freepik.com/free-photo/fresh-lemonade-wooden-table-perfect-summer-generated-by-artificial-intelligence_188544-90244.jpg?t=st=1704391760~exp=1704395360~hmac=547d6a8429a121fde6cdf3cdf670ec20fb1b4155c764012f888b28cd0924f87b&w=1380);
+        background-attachment: fixed;
+        margin: 0;
+        padding: 0;
+        background-size:cover; 
+        height:37rem;
+        background-repeat: no-repeat;
+        background-position-y:center ;
+    }
+
+    .cafe-name{
+        margin-top: 8rem!important;
+    }
+
+    .menu-im{
+        background-image: url(https://img.freepik.com/free-vector/black-background-with-focus-spot-light_1017-27230.jpg?w=1060&t=st=1704314618~exp=1704315218~hmac=715290073539055434e2917fc6d07cab039f9f6e70f56a84d257562103653170);
+        background-attachment: fixed;
+        background-size:cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        justify-items: center;
+        width: 100%;
+        margin-bottom: 1rem;
+    }
+    
+    .main-men{
+        display: flex;
+        flex-direction: row;
+        justify-content: center!important;
+        text-align: center!important;
+        align-items: center;
+        justify-items: center;
+        gap: 1rem;
+    }
+
+}
+
+/* For Mobile Portrait View */
+@media screen and (max-width: 768px) {
+    .text-body-emphasis{
+        background-image: url(https://img.freepik.com/free-photo/fresh-lemonade-wooden-table-perfect-summer-generated-by-artificial-intelligence_188544-90244.jpg?t=st=1704391760~exp=1704395360~hmac=547d6a8429a121fde6cdf3cdf670ec20fb1b4155c764012f888b28cd0924f87b&w=1380);
+        background-attachment: fixed;
+        margin: 0;
+        padding: 0;
+        background-size:cover; 
+        height:25rem;
+        background-repeat: no-repeat;
+        background-position-x: center;
+    }
+
+    .cafe-name{
+        margin-top: 4rem!important;
+    }
+
+    .menu-im{
+        background-image: url(https://img.freepik.com/free-vector/black-background-with-focus-spot-light_1017-27230.jpg?w=1060&t=st=1704314618~exp=1704315218~hmac=715290073539055434e2917fc6d07cab039f9f6e70f56a84d257562103653170);
+        background-attachment: fixed;
+        background-size:cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        justify-items: center;
+        padding: 1rem;
+    }
+    
+    .main-men{
+        display: flex;
+        flex-direction: row;
+        justify-content: center!important;
+        text-align: center!important;
+        align-items: center;
+        justify-items: center;
+        gap: 1rem;
+    }
+}
+
