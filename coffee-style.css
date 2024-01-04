@@ -1,7 +1,7 @@
 /* For Desktop View */
 @media screen and (min-width: 768px) {
     .text-body-emphasis{
-        background-image: url(https://coffeegems.co.uk/cdn/shop/articles/coffee-cup_3200x.jpg?v=1673476475);
+        background-image: url(https://esquirescoffee.co.uk/wp-content/uploads/2021/09/mike-kenneally-tNALoIZhqVM-unsplash.jpg);
         background-attachment: fixed;
         margin: 0;
         padding: 0;
@@ -44,7 +44,7 @@
 /* For Mobile Portrait View */
 @media screen and (max-width: 768px) {
     .text-body-emphasis{
-        background-image: url(https://coffeegems.co.uk/cdn/shop/articles/coffee-cup_3200x.jpg?v=1673476475);
+        background-image: url(https://esquirescoffee.co.uk/wp-content/uploads/2021/09/mike-kenneally-tNALoIZhqVM-unsplash.jpg);
         background-attachment: fixed;
         margin: 0;
         padding: 0;
