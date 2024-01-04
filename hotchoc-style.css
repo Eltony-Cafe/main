@@ -1,7 +1,7 @@
 /* For Desktop View */
 @media screen and (min-width: 768px) {
     .text-body-emphasis{
-        background-image: url(https://img.freepik.com/free-photo/one-woman-holding-coffee-cup-enjoying-warmth-generated-by-ai_188544-22824.jpg?w=1380&t=st=1704397127~exp=1704397727~hmac=39bffaa9d62a82d542a0786607b5b321c3444193cf02e1d6d06f6722d873a7f7);
+        background-image: url(https://images.pixexid.com/mug-of-hot-chocolate-marshmallows-bobbing-on-the-surface-cocoa-powder-dusted-o-liivs0uc.jpeg);
         background-attachment: fixed;
         margin: 0;
         padding: 0;
@@ -46,7 +46,7 @@
 /* For Mobile Portrait View */
 @media screen and (max-width: 768px) {
     .text-body-emphasis{
-        background-image: url(https://img.freepik.com/free-photo/one-woman-holding-coffee-cup-enjoying-warmth-generated-by-ai_188544-22824.jpg?w=1380&t=st=1704397127~exp=1704397727~hmac=39bffaa9d62a82d542a0786607b5b321c3444193cf02e1d6d06f6722d873a7f7);
+        background-image: url(https://images.pixexid.com/mug-of-hot-chocolate-marshmallows-bobbing-on-the-surface-cocoa-powder-dusted-o-liivs0uc.jpeg);
         background-attachment: fixed;
         margin: 0;
         padding: 0;
