@@ -1,7 +1,7 @@
 /* For Desktop View */
 @media screen and (min-width: 768px) {
     .text-body-emphasis{
-        background-image: url(https://img.freepik.com/free-photo/fresh-lemonade-wooden-table-perfect-summer-generated-by-artificial-intelligence_188544-90244.jpg?t=st=1704391760~exp=1704395360~hmac=547d6a8429a121fde6cdf3cdf670ec20fb1b4155c764012f888b28cd0924f87b&w=1380);
+        background-image: url(https://media.citizen.co.za/wp-content/uploads/2021/08/homemade-cocktails.jpg);
         background-attachment: fixed;
         margin: 0;
         padding: 0;
@@ -46,7 +46,7 @@
 /* For Mobile Portrait View */
 @media screen and (max-width: 768px) {
     .text-body-emphasis{
-        background-image: url(https://img.freepik.com/free-photo/fresh-lemonade-wooden-table-perfect-summer-generated-by-artificial-intelligence_188544-90244.jpg?t=st=1704391760~exp=1704395360~hmac=547d6a8429a121fde6cdf3cdf670ec20fb1b4155c764012f888b28cd0924f87b&w=1380);
+        background-image: url(https://media.citizen.co.za/wp-content/uploads/2021/08/homemade-cocktails.jpg);
         background-attachment: fixed;
         margin: 0;
         padding: 0;
