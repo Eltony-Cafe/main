@@ -45,14 +45,13 @@
 @media screen and (max-width: 768px) {
     .text-body-emphasis{
         background-image: url(https://esquirescoffee.co.uk/wp-content/uploads/2021/09/mike-kenneally-tNALoIZhqVM-unsplash.jpg);
-        background-attachment: fixed;
         margin: 0;
         padding: 0;
         background-size: 100%;
-        height:100%;
+        height:30rem;
+        background-size:cover; 
         background-repeat: no-repeat;
         background-position-x: center;
-        background-position-y: -7rem!important;
     }
 
     .cafe-name{
