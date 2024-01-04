@@ -1,7 +1,7 @@
 /* For Desktop View */
 @media screen and (min-width: 768px) {
     .text-body-emphasis{
-        background-image: url(https://img.freepik.com/free-photo/cup-fresh-coffee-table_23-2148336731.jpg?w=1060&t=st=1704392707~exp=1704393307~hmac=08d8c67da156a951c05b660e1754d4abc5f589f22ac93355272daf82307ec3c9);
+        background-image: url(https://coffeegems.co.uk/cdn/shop/articles/coffee-cup_3200x.jpg?v=1673476475);
         background-attachment: fixed;
         margin: 0;
         padding: 0;
@@ -45,7 +45,7 @@
 /* For Mobile Portrait View */
 @media screen and (max-width: 768px) {
     .text-body-emphasis{
-        background-image: url(https://img.freepik.com/free-photo/cup-fresh-coffee-table_23-2148336731.jpg?w=1060&t=st=1704392707~exp=1704393307~hmac=08d8c67da156a951c05b660e1754d4abc5f589f22ac93355272daf82307ec3c9);
+        background-image: url(https://coffeegems.co.uk/cdn/shop/articles/coffee-cup_3200x.jpg?v=1673476475);
         background-attachment: fixed;
         margin: 0;
         padding: 0;
