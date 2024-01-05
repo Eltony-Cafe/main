@@ -56,7 +56,8 @@
 /* For Mobile Portrait View */
 @media screen and (max-width: 768px) {
     body{
-        width:97.5%;
+        width:97%;
+        margin-left:10px;
     }
     .text-body-emphasis{
         background-image: url(https://e1.pxfuel.com/desktop-wallpaper/903/359/desktop-wallpaper-coffee-cup-coffee-cup-caffe-macchiato-ristretto-espresso-coffee-phone.jpg);
