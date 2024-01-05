@@ -16,7 +16,15 @@
     }
 
     .menu-im{
-                background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjIfu7xUoN8N1MdtNM4euQ4HO9xIy_oPSxng&usqp=CAU);
+.card-body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRphrqQi0y5eGTSRtbl3s_ATzAvvKC5XqRbw&usqp=CAU);
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
         background-attachment: fixed;
         background-size:cover;
         background-repeat: no-repeat;
@@ -60,7 +68,14 @@
     }
 
     .menu-im{
-                background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjIfu7xUoN8N1MdtNM4euQ4HO9xIy_oPSxng&usqp=CAU);
+.card-body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRphrqQi0y5eGTSRtbl3s_ATzAvvKC5XqRbw&usqp=CAU);
+    margin: 0;
+    padding: 0;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
         background-attachment: fixed;
         background-size:cover;
         background-repeat: no-repeat;
