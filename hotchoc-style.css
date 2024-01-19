@@ -47,11 +47,11 @@
 @media screen and (max-width: 768px) {
     .text-body-emphasis{
         background-image: url(https://thebananadiaries.com/wp-content/uploads/2019/11/healthy-hot-chocolate-recipe_9501-1333x2000.jpg);
-        background-attachment: fixed;
         margin: 0;
         padding: 0;
-        background-size: 100%;
-        height:26rem;
+        width: 100vw;
+        height:70vh;
+        background-size:cover; 
         background-repeat: no-repeat;
     }
 
