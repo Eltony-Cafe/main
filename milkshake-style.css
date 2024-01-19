@@ -47,11 +47,11 @@
 @media screen and (max-width: 768px) {
     .text-body-emphasis{
         background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR64iiyRrPK07nVhblGQJIHFx4fb4uN8pPDg&usqp=CAU);
-        background-attachment: fixed;
         margin: 0;
         padding: 0;
-        background-size: 100%;
-        height:23rem;
+        width: 100vw;
+        height:70vh;
+        background-size:cover; 
         background-repeat: no-repeat;
     }
 
