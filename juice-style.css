@@ -47,11 +47,11 @@
 @media screen and (max-width: 768px) {
     .text-body-emphasis{
         background-image: url(https://static.vecteezy.com/system/resources/previews/026/994/197/large_2x/fresh-juice-and-smoothies-with-berries-fruits-on-dark-background-ai-generative-free-photo.jpg);
-        background-attachment: fixed;
         margin: 0;
         padding: 0;
-        background-size: 100%;
-        height:26rem;
+        width: 100vw;
+        height:70vh;
+        background-size:cover; 
         background-repeat: no-repeat;
     }
 
