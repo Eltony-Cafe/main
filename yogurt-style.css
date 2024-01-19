@@ -47,11 +47,11 @@
 @media screen and (max-width: 768px) {
     .text-body-emphasis{
         background-image: url(https://simplegreensmoothies.com/wp-content/uploads/red-velvet-smoothie-healthy-dessert-valentines-smoothie-recipe-4.jpg);
-        background-attachment: fixed;
         margin: 0;
         padding: 0;
-        background-size: 100%;
-        height:26rem;
+        width: 100vw;
+        height:70vh;
+        background-size:cover; 
         background-repeat: no-repeat;
     }
 
