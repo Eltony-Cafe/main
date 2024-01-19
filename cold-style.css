@@ -49,12 +49,10 @@
         background-image: url(https://images.herzindagi.info/image/2022/May/cold-drink-hacks-to-know.jpg);
         margin: 0;
         padding: 0;
-        background-size: 100%;
-        height:26rem;
+        width: 100vw;
+        height:70vh;
         background-size:cover; 
         background-repeat: no-repeat;
-        background-position-x: center;
-        background-position-y: center;
     }
 
     .cafe-name{
