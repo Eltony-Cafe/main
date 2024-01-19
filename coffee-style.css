@@ -47,7 +47,6 @@
 @media screen and (max-width: 768px) {
     .text-body-emphasis{
         background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Cappuccino_at_Sightglass_Coffee.jpg/640px-Cappuccino_at_Sightglass_Coffee.jpg);
-        background-attachment: fixed;
         margin: 0;
         padding: 0;
         width: 100vw;
