@@ -1,7 +1,7 @@
 /* For Desktop View */
 @media screen and (min-width: 768px) {
     .text-body-emphasis{
-        background-image: url(https://images.pixexid.com/mug-of-hot-chocolate-marshmallows-bobbing-on-the-surface-cocoa-powder-dusted-o-liivs0uc.jpeg);
+        background-image: url(image-choc.jgp);
         background-attachment: fixed;
         margin: 0;
         padding: 0;
@@ -46,7 +46,7 @@
 /* For Mobile Portrait View */
 @media screen and (max-width: 768px) {
     .text-body-emphasis{
-        background-image: url(https://thebananadiaries.com/wp-content/uploads/2019/11/healthy-hot-chocolate-recipe_9501-1333x2000.jpg);
+        background-image: url(image-choc.jgp);
         margin: 0;
         padding: 0;
         width: 100vw;
